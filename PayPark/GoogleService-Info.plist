@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>686280958492-1bi238m251h9fubp1fs4h1j0jahii4j0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.686280958492-1bi238m251h9fubp1fs4h1j0jahii4j0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQ2cHU7eIb_Imn2mFzE6DYCDS7lw5dQKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>686280958492</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.khan356.PayPark</string>
+	<key>PROJECT_ID</key>
+	<string>paypark-f20-final</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paypark-f20-final.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:686280958492:ios:e2688303f77005e695f5d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://paypark-f20-final.firebaseio.com</string>
+</dict>
+</plist>
